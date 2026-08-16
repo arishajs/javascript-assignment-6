@@ -139,3 +139,4 @@ document.write("<option>" + phones[2] + "</option>");
 document.write("<option>" + phones[3] + "</option>");
 document.write("<option>" + phones[4] + "</option>");
 document.write("<option>" + phones[5] + "</option>");
+document.write("<select>");
